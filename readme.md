@@ -3,7 +3,8 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Yassine 
 
 - Liked mathematics and physics from a young age, discovered CS and ML in university
-- Focused on generative modelling but open to many areas in ML 
+- Focused on generative modelling but open to many areas in ML
+- Currently working on MLE
 - Enjoy sport, hikes, mountains and history  
 
 
